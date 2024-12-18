@@ -25,8 +25,7 @@ function HeroSection() {
                         <span className="text-purple-800">{textOptions[currentTextIndex]}</span>
                     </h1>
                     <p className="text-gray-600 text-lg mb-6">
-                        Our Global Growth Platform™ offers your business a new way to grow by
-                        making it easier to build and manage teams in 180+ countries and counting.
+                        a passionate software developer with expertise in crafting innovative web and mobile applications. With a strong foundation in .NET, Angular, and Ionic, I specialize in building solutions that blend functionality with elegance. Explore my journey, dive into my projects, and let’s create something extraordinary together!"
                     </p>
                     <div className="flex space-x-4">
                         <button className="bg-purple-600 text-white font-semibold py-3 px-6 rounded-full shadow-lg hover:bg-purple-700 transition relative group flex items-center justify-center">
