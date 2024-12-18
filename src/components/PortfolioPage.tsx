@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 const portfolioItems = [
     { title: "GMAIL", category: "PHONE APP", img: "./public/work page.jpg" },
