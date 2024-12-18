@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import exampleImage from '../assets/hero-section-image/my-avtar.jpg';
+import exampleImage from '../assets/my-avtar.jpg';
 
 function HeroSection() {
 
