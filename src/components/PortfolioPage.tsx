@@ -17,8 +17,6 @@ const portfolioItems = [
 function PortfolioPage() {
     return (
         <>
-            
-
             <div className="bg-purple-100 text-white min-h-screen">
             <div className="h-1 bg-purple-800 rounded-full mx-4"></div>
           {/* Header */}
